@@ -3,7 +3,7 @@ layout: post
 title: 入手jekyll!
 ---
 
-jekyll初始化111111111111111
+jekyll初始化
 
 ## 第一步：新建仓库
 
