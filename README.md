@@ -10,8 +10,6 @@
 - 如果你在Windows上，这将使设置Jekyll更容易
 - 这很容易尝试，如果您不喜欢，可以删除分叉存储库
 
-![Jekyll Now 主题截图](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
-
 ## 快速入门
 
 ### 第1步 立即将Jekyll分给您的用户存储库
@@ -19,8 +17,6 @@
 分叉此存储库，然后将存储库重命名为 yourgithubusername.github.io.
 
 您的Jekyll博客通常会立即在 <https://yourgithubusername.github.io> (如果不是，您通常可以通过完成步骤2来强制它构建)
-
-![步骤1](/images/step1.gif "Step 1")
 
 ### 第2步 自定义并查看您的网站
 
@@ -90,7 +86,7 @@ You can use the [Quick Start](https://github.com/barryclark/jekyll-now#quick-sta
 - [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) by Michael Rose
 - [Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll) by Michael Rose
 
-## 功劳
+## 贡献
 
 - [Jekyll](https://github.com/jekyll/jekyll) - 感谢其创建者、贡献者和维护者.
 - [SVG icons](https://github.com/neilorangepeel/Free-Social-Icons) - Thanks, Neil Orange Peel. They're beautiful.
