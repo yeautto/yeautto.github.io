@@ -1,5 +1,6 @@
 #
-# 此文件包含自定义站点的配置标志
+# 保存配置数据。
+# 很多配置选项都可以直接在命令行中进行设置，但是如果你把那些配置写在这儿，你就不用非要去记住那些命令了。
 #
 
 # 站点名称（显示在标题中）
@@ -18,15 +19,15 @@ avatar: https://pic.rmb.bdstatic.com/64b0c1d1fa7e98ab60bce7781f98749c.jpeg
 # 在您输入的每个用户名的页脚中包含一个图标
 footer-links:
   dribbble:
-  email:
+  email: 2427142850@qq.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: yeautto/yeautto.github.io
   instagram:
   linkedin:
   pinterest:
   rss: # 只需在此处键入任何可工作的RSS图标
-  twitter: jekyllrb
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # 您的个人资料用户名中位于plus.google.com之后的任何内容/
@@ -39,13 +40,13 @@ disqus:
 # 输入您的Google Analytics web跟踪代码（例如UA-2110908-2）以激活跟踪
 google_analytics:
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
+# 您的网站URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# 用于 Sitemap.xml and your RSS feed
 url:
 
-# 如果您在 GitHub pages上的项目存储库中托管站点 (http://yourusername.github.io/repository-name)
-# 而不是您的用户存储库 (http://yourusername.github.io)
-# 然后在这里添加 baseurl，, like this: "/repository-name"
+# 如果您在 GitHub pages上的项目存储库中托管站点为 (http://yourusername.github.io/repository-name)
+# 而不是用户存储库 (http://yourusername.github.io)
+# 那么就需要在这里添加baseurl，例如: "/repository-name"
 baseurl: ""
 
 #
